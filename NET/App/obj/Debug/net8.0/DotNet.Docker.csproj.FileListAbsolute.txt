@@ -1,0 +1,15 @@
+/workspaces/Web-Framework/NET/App/bin/Debug/net8.0/DotNet.Docker
+/workspaces/Web-Framework/NET/App/bin/Debug/net8.0/DotNet.Docker.deps.json
+/workspaces/Web-Framework/NET/App/bin/Debug/net8.0/DotNet.Docker.runtimeconfig.json
+/workspaces/Web-Framework/NET/App/bin/Debug/net8.0/DotNet.Docker.dll
+/workspaces/Web-Framework/NET/App/bin/Debug/net8.0/DotNet.Docker.pdb
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.AssemblyInfoInputs.cache
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.AssemblyInfo.cs
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.csproj.CoreCompileInputs.cache
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.sourcelink.json
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.dll
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/refint/DotNet.Docker.dll
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.pdb
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/DotNet.Docker.genruntimeconfig.cache
+/workspaces/Web-Framework/NET/App/obj/Debug/net8.0/ref/DotNet.Docker.dll
